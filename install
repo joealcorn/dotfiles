@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-ln -s $PWD/.gitconfig $HOME/.gitconfig
-ln -s $PWD/.hammerspoon $HOME/.hammerspoon
+ln -si $PWD/.gitconfig $HOME/.gitconfig
+ln -si $PWD/.hammerspoon $HOME/.hammerspoon
